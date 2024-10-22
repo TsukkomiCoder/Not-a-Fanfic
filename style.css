@@ -8,17 +8,17 @@ main {
     	justify-content: space-between;
 }
 
-p1 {
+p {
     	color: #F8FF00;
     	font-family: monospace;
     	font-size: 17px;
 }
 
-h {
+h1 {
     	color: #F8FF00;
     	font-family: monospace;
     	font-size: 30px;
-	float: center;
+		text-align: center;
 }
 
 div {
