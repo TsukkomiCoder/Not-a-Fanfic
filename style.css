@@ -1,26 +1,28 @@
 main {
-    background-color: #400C8E;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    	background-color: #400C8E;
+   	display: flex;
+   	flex-wrap: wrap;
+    	justify-content: space-between;
 }
 
 p1 {
-    color: #F8FF00;
-    font-family: monospace;
-    font-size: 17px;
+    	color: #F8FF00;
+    	font-family: monospace;
+    	font-size: 17px;
 }
 
 h {
-    color: #F8FF00;
-    font-family: monospace;
-    font-size: 30px;
+    	color: #F8FF00;
+    	font-family: monospace;
+    	font-size: 30px;
+	float: center;
 }
 
 div {
-    background-color: #400C8E;
+    	background-color: #400C8E;
 	font-family: monospace;
 	font-size: 30px;
 	color: #F8FF00;
 	float: center;
 	width: 100%;
+}
