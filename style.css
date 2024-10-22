@@ -22,10 +22,7 @@ h1 {
 }
 
 div {
-    	background-color: #400C8E;
-		font-family: monospace;
-		font-size: 30px;
-		color: #F8FF00;
-		align-items: center;
+    	margin-right: auto;
+		margin-left: auto;
 		width: 50%;
 }
