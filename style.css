@@ -1,7 +1,10 @@
+body {
+		background-color: #400C8E;
+}
 main {
     	background-color: #400C8E;
-   	display: flex;
-   	flex-wrap: wrap;
+   		display: flex;
+   		flex-wrap: wrap;
     	justify-content: space-between;
 }
 
@@ -24,5 +27,5 @@ div {
 	font-size: 30px;
 	color: #F8FF00;
 	float: center;
-	width: 100%;
+	width: 50%;
 }
