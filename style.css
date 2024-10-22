@@ -1,5 +1,8 @@
 main {
     background: #400C8E;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 p1 {
