@@ -26,6 +26,6 @@ div {
 		font-family: monospace;
 		font-size: 30px;
 		color: #F8FF00;
-		float: center;
+		align-items: center;
 		width: 50%;
 }
